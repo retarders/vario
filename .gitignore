@@ -1,0 +1,7 @@
+# Idea Files #
+*.iml
+.idea
+out/
+target/
+dependency-reduced-pom.xml
+.env
